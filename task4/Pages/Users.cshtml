@@ -142,4 +142,12 @@
             row.style.display = email.includes(value) ? "" : "none";
         });
     });
+    setTimeout(() => {
+        const alert = document.getElementById("toastMessage");
+        if (alert) {
+            alert.classList.remove("show");
+            alert.classList.add("fade");
+            setTimeout(() => alert.remove(), 500);
+        }
+    }, 3000);
 </script>

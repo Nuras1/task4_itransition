@@ -15,6 +15,7 @@ namespace task4.Pages.Account
         {
             _auth = auth;
         }
+
         public async Task<IActionResult> OnPost()
         {
             var user = await _auth.Login(Email, Password);
@@ -29,5 +30,6 @@ namespace task4.Pages.Account
 
             return RedirectToPage("/Users");
         }
+
     }
 }

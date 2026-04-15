@@ -55,8 +55,9 @@ namespace task4.Services
 
                 var link = $"{baseUrl}/Account/Confirm?token={token}";
 
-                await _emailService.Send(email, "Confirm your email",
-                    $"Click here: {link}");
+                //await _emailService.Send(email, "Confirm your email",
+                //$"Click here: {link}");
+                user.Status = UserStatus.Active;
 
                 return null;
             }
@@ -66,7 +67,7 @@ namespace task4.Services
             }
             catch (Exception ex)
             {
-                return ex.Message; // 🔥 ВАЖНО
+                return ex.Message; 
             }
         }
     }
