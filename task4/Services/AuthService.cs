@@ -60,21 +60,12 @@ namespace task4.Services
 
                 var link = $"{baseUrl}/Account/Confirm?token={token}";
 
-                _ = Task.Run(async () =>
-                {
-                    try
-                    {
-                        await _emailService.Send(
-                            email,
-                            "Confirm your email",
-                            $"Click the link to confirm your account:\n{link}"
-                        );
-                    }
-                    catch (Exception ex)
-                    {
-                        Console.WriteLine($"Email error: {ex.Message}");
-                    }
-                });
+                await _emailService.Send
+                    (
+                    email,
+                   "Confirm your email",
+                    $"Click the link:\n{link}"
+                    );
 
                 return null;
             }
