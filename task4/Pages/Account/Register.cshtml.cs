@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.ComponentModel.DataAnnotations;
-
 using task4.Services;
 
 namespace task4.Pages.Account;
@@ -10,11 +8,9 @@ public class RegisterModel : PageModel
 {
     private readonly AuthService _auth;
 
-    [BindProperty][Required]public string Name { get; set; }
-
-    [BindProperty][Required][EmailAddress]public string Email { get; set; }
-
-    [BindProperty][Required]public string Password { get; set; }
+    [BindProperty] public string Name { get; set; }
+    [BindProperty] public string Email { get; set; }
+    [BindProperty] public string Password { get; set; }
 
     public RegisterModel(AuthService auth)
     {
@@ -23,8 +19,11 @@ public class RegisterModel : PageModel
 
     public async Task<IActionResult> OnPost()
     {
-        if (!ModelState.IsValid)
+        if (string.IsNullOrWhiteSpace(Name) ||
+            string.IsNullOrWhiteSpace(Email) ||
+            string.IsNullOrWhiteSpace(Password))
         {
+            ModelState.AddModelError("", "All fields are required");
             return Page();
         }
 
@@ -40,4 +39,5 @@ public class RegisterModel : PageModel
 
         return RedirectToPage("/Account/Login");
     }
+
 }

@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "task4\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T12:55:51.292Z",
               "EditorCaption": ""
@@ -89,7 +89,7 @@
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "task4\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-15T12:55:47.461Z",
               "EditorCaption": ""
@@ -128,8 +128,7 @@
               "RelativeToolTip": "task4\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T11:16:12.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T11:16:12.555Z"
             },
             {
               "$type": "Document",
