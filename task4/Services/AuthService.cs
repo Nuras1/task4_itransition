@@ -30,9 +30,6 @@ namespace task4.Services
             if (user.Status == UserStatus.Blocked)
                 return null;
 
-            if (user.Status == UserStatus.Unverified) 
-                return null;
-
             if (!_hasher.VerifyPassword(user.PasswordHash, password))
                 return null;
 

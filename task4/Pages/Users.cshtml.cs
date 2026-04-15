@@ -38,7 +38,7 @@ public class UsersModel : PageModel
         return _context.Users.Where(x => SelectedIds.Contains(x.Id));
     }
 
-    private IActionResult CheckSelection()
+    private IActionResult? CheckSelection()
     {
         if (SelectedIds == null || !SelectedIds.Any())
         {
