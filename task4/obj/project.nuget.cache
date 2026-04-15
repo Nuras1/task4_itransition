@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kxyJYpJ5aS8=",
+  "dgSpecHash": "A/2GyJKH8Ts=",
   "success": true,
   "projectFilePath": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\task4.csproj",
   "expectedPackageFiles": [
@@ -172,8 +172,8 @@
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\windowsazure.storage\\7.0.0\\windowsazure.storage.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cassian Comp\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Cassian Comp\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
     "C:\\Users\\Cassian Comp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
   ],

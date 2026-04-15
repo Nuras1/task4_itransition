@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.Sqlite;
+using Microsoft.EntityFrameworkCore;
 using task4.Data;
 using task4.Helpers;
 using task4.Models;
@@ -18,11 +19,18 @@ namespace task4.Services
             _emailService = emailService;
         }
 
-        public async Task< User?> Login(string email, string password)
+        public async Task<User?> Login(string email, string password)
         {
-            var user = _context.Users.FirstOrDefault(x => x.Email == email);
+            var user = await _context.Users
+                .FirstOrDefaultAsync(x => x.Email == email);
 
-            if (user == null || user.Status == UserStatus.Blocked)
+            if (user == null)
+                return null;
+
+            if (user.Status == UserStatus.Blocked)
+                return null;
+
+            if (user.Status == UserStatus.Unverified) 
                 return null;
 
             if (!_hasher.VerifyPassword(user.PasswordHash, password))
@@ -45,7 +53,7 @@ namespace task4.Services
                     Name = name,
                     Email = email,
                     PasswordHash = _hasher.HashPassword(password),
-                    Status = UserStatus.Unverified,
+                    Status = UserStatus.Unverified, 
                     CreatedAt = DateTime.Now,
                     EmailToken = token
                 };
@@ -55,9 +63,21 @@ namespace task4.Services
 
                 var link = $"{baseUrl}/Account/Confirm?token={token}";
 
-                //await _emailService.Send(email, "Confirm your email",
-                //$"Click here: {link}");
-                user.Status = UserStatus.Active;
+                _ = Task.Run(async () =>
+                {
+                    try
+                    {
+                        await _emailService.Send(
+                            email,
+                            "Confirm your email",
+                            $"Click the link to confirm your account:\n{link}"
+                        );
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Email error: {ex.Message}");
+                    }
+                });
 
                 return null;
             }
@@ -67,7 +87,7 @@ namespace task4.Services
             }
             catch (Exception ex)
             {
-                return ex.Message; 
+                return ex.Message;
             }
         }
     }
