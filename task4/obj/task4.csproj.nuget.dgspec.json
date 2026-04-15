@@ -52,17 +52,9 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[16.1.1, )"
-            },
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.1.0, )"
-            },
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.5.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -77,14 +69,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
-            },
-            "Portable.BouncyCastle": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "SharePointPnPCoreOnline": {
-              "target": "Package",
-              "version": "[3.28.2012, )"
             }
           },
           "imports": [
