@@ -223,7 +223,6 @@ C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\De
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\task4.csproj.Up2Date
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\task4.dll
 C:\Users\Cassian Comp\Documents\itransition_tasks\task4_itransition\task4\obj\Debug\net8.0\refint\task4.dll

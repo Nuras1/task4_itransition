@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,14 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|c:\\users\\cassian comp\\documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3EC44569-3858-4C35-81A9-56D8C226D95F}|task4\\task4.csproj|solutionrelative:task4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,37 +102,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "task4\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Services\\EmailService.cs",
-              "RelativeToolTip": "task4\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:48:39.046Z",
+              "DocumentIndex": 3,
+              "Title": "task4.csproj",
+              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\task4.csproj",
+              "RelativeDocumentMoniker": "task4\\task4.csproj",
+              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\task4.csproj",
+              "RelativeToolTip": "task4\\task4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T14:58:29.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Confirm.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Confirm.cshtml.cs",
-              "RelativeDocumentMoniker": "task4\\Pages\\Account\\Confirm.cshtml.cs",
-              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Confirm.cshtml.cs",
-              "RelativeToolTip": "task4\\Pages\\Account\\Confirm.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:34:01.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Users.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Users.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Users.cshtml",
@@ -136,12 +127,11 @@
               "RelativeToolTip": "task4\\Pages\\Users.cshtml",
               "ViewState": "AgIAAHgAAAAAAAAAAAAAAI8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T12:58:51.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:58:51.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Users.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Users.cshtml.cs",
               "RelativeDocumentMoniker": "task4\\Pages\\Users.cshtml.cs",
@@ -149,12 +139,11 @@
               "RelativeToolTip": "task4\\Pages\\Users.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:58:53.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:58:53.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Login.cshtml",
@@ -162,12 +151,11 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T14:18:00.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:18:00.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "task4\\Services\\AuthService.cs",
@@ -175,12 +163,11 @@
               "RelativeToolTip": "task4\\Services\\AuthService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAhwB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:24:46.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:24:46.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Confirm.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Confirm.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Confirm.cshtml",
@@ -188,25 +175,24 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Confirm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T14:33:43.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:33:43.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Program.cs",
               "RelativeDocumentMoniker": "task4\\Program.cs",
               "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Program.cs",
               "RelativeToolTip": "task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T11:17:50.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Logout.cshtml",
@@ -214,12 +200,61 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T14:35:17.785Z",
+              "WhenOpened": "2026-04-15T14:35:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json",
+              "RelativeDocumentMoniker": "task4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json",
+              "RelativeToolTip": "task4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T11:16:12.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "task4\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.Development.json",
+              "RelativeToolTip": "task4\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T11:16:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Confirm.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Confirm.cshtml.cs",
+              "RelativeDocumentMoniker": "task4\\Pages\\Account\\Confirm.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Confirm.cshtml.cs",
+              "RelativeToolTip": "task4\\Pages\\Account\\Confirm.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:34:01.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "task4\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Services\\EmailService.cs",
+              "RelativeToolTip": "task4\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:48:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Register.cshtml",
@@ -227,12 +262,11 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T12:55:47.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:55:47.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Register.cshtml.cs",
@@ -240,12 +274,11 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:55:51.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:55:51.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Login.cshtml.cs",
@@ -253,12 +286,11 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:34:58.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:34:58.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Helpers\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "task4\\Helpers\\PasswordHasher.cs",
@@ -266,12 +298,11 @@
               "RelativeToolTip": "task4\\Helpers\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:30:49.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:30:49.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "task4\\Pages\\Shared\\_Layout.cshtml.css",
@@ -279,12 +310,11 @@
               "RelativeToolTip": "task4\\Pages\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-15T14:36:56.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:36:56.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "task4\\Pages\\Shared\\_Layout.cshtml",
@@ -292,12 +322,11 @@
               "RelativeToolTip": "task4\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwC0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T14:36:33.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:36:33.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "task4\\Pages\\Account\\Logout.cshtml.cs",
@@ -305,12 +334,11 @@
               "RelativeToolTip": "task4\\Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:35:43.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:35:43.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Models\\User.cs",
               "RelativeDocumentMoniker": "task4\\Models\\User.cs",
@@ -318,12 +346,11 @@
               "RelativeToolTip": "task4\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:31:59.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:31:59.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "TimeHelper.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Helpers\\TimeHelper.cs",
               "RelativeDocumentMoniker": "task4\\Helpers\\TimeHelper.cs",
@@ -331,12 +358,11 @@
               "RelativeToolTip": "task4\\Helpers\\TimeHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:31:31.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:31:31.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "app.db",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\app.db",
               "RelativeDocumentMoniker": "task4\\app.db",
@@ -347,31 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "task4\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.Development.json",
-              "RelativeToolTip": "task4\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T11:16:16.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json",
-              "RelativeDocumentMoniker": "task4\\appsettings.json",
-              "ToolTip": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\appsettings.json",
-              "RelativeToolTip": "task4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T11:16:12.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\Cassian Comp\\Documents\\itransition_tasks\\task4_itransition\\task4\\Data\\DbContext.cs",
               "RelativeDocumentMoniker": "task4\\Data\\DbContext.cs",
@@ -379,8 +381,7 @@
               "RelativeToolTip": "task4\\Data\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:46:57.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:46:57.232Z"
             }
           ]
         }
