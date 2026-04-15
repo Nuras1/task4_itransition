@@ -8,9 +8,9 @@ public class RegisterModel : PageModel
 {
     private readonly AuthService _auth;
 
-    [BindProperty] public string Name { get; set; }
-    [BindProperty] public string Email { get; set; }
-    [BindProperty] public string Password { get; set; }
+    [BindProperty] public string Name { get; set; } = "";
+    [BindProperty] public string Email { get; set; } = "";
+    [BindProperty] public string Password { get; set; } = "";
 
     public RegisterModel(AuthService auth)
     {

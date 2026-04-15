@@ -8,7 +8,7 @@ namespace task4.Services
         {
             var smtp = new SmtpClient("smtp.mail.ru", 587)
             {
-                Credentials = new NetworkCredential("nurasbekmurad@mail.ru", "zGFuGaU3XgQyQkTnPirA"),
+                Credentials = new NetworkCredential("nurasbekmurad@mail.ru", "6p3J4QMeN7eF7U4bcSAa"),
                 EnableSsl = true
             };
 
