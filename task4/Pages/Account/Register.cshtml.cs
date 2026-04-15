@@ -23,22 +23,14 @@ public class RegisterModel : PageModel
 
     public async Task<IActionResult> OnPost()
     {
-        if (string.IsNullOrWhiteSpace(Name) ||
-            string.IsNullOrWhiteSpace(Email) ||
-            string.IsNullOrWhiteSpace(Password))
+        if (!ModelState.IsValid)
         {
-            ModelState.AddModelError("", "All fields are required");
             return Page();
         }
 
         var baseUrl = $"{Request.Scheme}://{Request.Host}";
 
         var error = await _auth.Register(Name, Email, Password, baseUrl);
-
-        if (!ModelState.IsValid)
-        {
-            return Page();
-        }
 
         if (error != null)
         {
